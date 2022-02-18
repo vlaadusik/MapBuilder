@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxQAFYCxHYdOpxLx5eM8cwWreT61hspLf7G7FwObw5FWGTXQkhFaT0hZvpO0pZYgs5Hwrh3fmCztJMH6RIbZrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Влада\\Downloads\\drive-download-20220216T105258Z-001\\MapBuilder.App\\MapBuilder.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Влада\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
